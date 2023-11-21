@@ -8,7 +8,8 @@ Lucas Carvalho
 Para criar o menu e os adicionamos o elemento canvas e deixando em resolução FU HD ai foi adicionado o painel mais uma imagem e em seguida criamos um botão e um gameobject vazio para armazenar os scripts para a troca de cena o processo foi repetido nos Creditos porém retirando um um buttom e adicionando um texto.
 
 ![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/61ec3de3-0b6f-4b5a-81ae-ff28dbfd57d3)
-![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/2f010ad6-18ca-45e3-a768-f3acd289e9cb)
+![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/4d901c82-718e-48d3-96b4-560e7903146f)
+
 
 
  - O codigo abaixo foi ultilizado para a troca de cena juntamente com a função "Onclick" do Buttom.
@@ -68,7 +69,8 @@ Para criar o menu e os adicionamos o elemento canvas e deixando em resolução F
   # Hub Dinamico
 - Para o hub dinamico foi feito um timer para a contagem em quanto tempo o jogador demoraria para aceitar o "lixo".
    
-![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/ad11e1cd-f814-4444-9ebf-95723a2cb4b6)
+![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/f2a4a485-f23b-46f8-9b01-23f478f7a08c)
+
 - Codigo usado para o cronômetro
 
       using System.Collections;
@@ -98,8 +100,10 @@ Para criar o menu e os adicionamos o elemento canvas e deixando em resolução F
         }
   # GamePlay
 
+https://github.com/lucasnoelgb/MenuUnity/assets/129121307/427e1e97-1a06-4324-8794-dae2326316b3
 
-https://github.com/lucasnoelgb/MenuUnity/assets/129121307/ea446c2b-4276-4e44-a117-cfa9a75db509
+
+
 
 
   
