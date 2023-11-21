@@ -6,9 +6,10 @@ Lucas Carvalho
 
 
 Para criar o menu e os adicionamos o elemento canvas e deixando em resolução FU HD ai foi adicionado o painel mais uma imagem e em seguida criamos um botão e um gameobject vazio para armazenar os scripts para a troca de cena o processo foi repetido nos Creditos porém retirando um um buttom e adicionando um texto.
-![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/10a209ca-e1f6-4a45-b6fa-c5f9c134acee)
 
-![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/0af1b145-7eb4-45ef-852f-856ff1360b28)
+![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/61ec3de3-0b6f-4b5a-81ae-ff28dbfd57d3)
+![image](https://github.com/lucasnoelgb/MenuUnity/assets/129121307/2f010ad6-18ca-45e3-a768-f3acd289e9cb)
+
 
  - O codigo abaixo foi ultilizado para a troca de cena juntamente com a função "Onclick" do Buttom.
 
